@@ -4,4 +4,4 @@ nohup.out
 .*~
 tmp*~
 dist
-src/pywebflowerlibpackage
+src/pywebflowerlibpackage.egg-info
